@@ -1,0 +1,8 @@
+server:
+  context-path: /captcha
+  port: 9090
+
+jsf:
+  primefaces:
+    private-captcha-key: 6LeHMG4UAAAAAJBC9nv_kyeW9nd6zVevT6bVWGz2
+    public-captcha-key: 6LeHMG4UAAAAAA4AoAd_SC_BTIV9DB8h86TKnGA9
